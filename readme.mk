@@ -3,4 +3,4 @@ In reality one neron can be pretty dense state machine ? That would also explai 
 and gradients ans wawes are basic building block in 3d biological topology for a reason. ie thats how any living 3d organ is shaped from lowest molecule = 3d gradients and waves. all that is not present if we use just dumb floats as control freaks
 
 So for logic gates . it turns out you need just one NAND and can create all 7 possible known logical circuits from it just by witing bunch of nands in specific way.
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+!(What-are-basic-logic-gates-figure-3.webp)
