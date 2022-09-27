@@ -7,7 +7,7 @@ it turns out you need just one NAND and can create all 7 possible known logical 
 
 Therefore basic building nlock of our new hopefully spiking (but not limited to 5khz) network would be this.
 Lets call it GateTron
-![gatetron?](gatetron.png)
+![gatetron?](gatetron.webp)
 
 there is weight also between two inputs in otder to work as not= by shortcircuiting two nand inputs we get not. But this seems stupid perhaps having weighted and or not everywhere is better than this stupid aditional weight?
 
