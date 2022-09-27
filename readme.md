@@ -9,5 +9,5 @@ Therefore basic building nlock of our new hopefully spiking (but not limited to 
 Lets call it GateTron
 ![gatetron?](gatetron.png)
 
-there is weight also between two inputs in otder to work as not= by shortcircuiting two nand inputs we get not
+there is weight also between two inputs in otder to work as not= by shortcircuiting two nand inputs we get not. But this seems stupid perhaps having weighted and or not everywhere is better than this stupid aditional weight?
 
