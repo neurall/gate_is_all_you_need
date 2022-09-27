@@ -4,3 +4,8 @@ and gradients ans wawes are basic building block in 3d biological topology for a
 
 it turns out you need just one NAND and can create all 7 possible known logical circuits from it just by witing bunch of nands in specific way
 ![](What-are-basic-logic-gates-figure-3.webp)
+
+Therefore basic building nlock of our new hopefully spiking (but not limited to 5khz) network would be this.
+Lets call it GateTron
+![](gatetron.webp)
+
