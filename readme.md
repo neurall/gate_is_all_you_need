@@ -1,9 +1,10 @@
 This basic idea spawned in my head when relatively recently when I watched a recent discovery by blue brain folks. that some real biological dendrites fire to axons only when two simultaneous inputs to them fired at the same time. 
 
-I.e they kinda worked like logical AND gate. there was correlation detection built in single connection.
+I.e they kinda worked like logical AND gate. 
+Not only there was correlation detection built in single connection.
 
-Plus what is more important time played role as oposed to our current architectures. 
-I.e what if dendrited do logic like if this and 10s later that ?
+But, what is even more important time played role as oposed to our current ml architectures. Gpt3 with 175b params still has no idea what it did 3s ago
+I.e what if dendrites do logic like " if this leading edge of a and b and 10s later x mul y is bigger than threshold c than not o" ?
 
 And in one neuron and one axon/neuron has a houndreds of them in 
 
