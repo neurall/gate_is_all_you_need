@@ -1,7 +1,8 @@
 This basic idea spawned in my head when relatively recently when I watched a recent discovery by blue brain folks. that some real biological dendrites fire to axons only when two simultaneous inputs to them fired at the same time. 
 
-I.e they kinda worked like logical AND gate. there was correlation detection built-in single connection plus what is more important time played role as oposed to our current architectures. 
+I.e they kinda worked like logical AND gate. there was correlation detection built in single connection.
 
+Plus what is more important time played role as oposed to our current architectures. 
 I.e what if dendrited do logic like if this and 10s later that ?
 
 And in one neuron and one axon/neuron has a houndreds of them in 
