@@ -6,6 +6,8 @@ Not only there was correlation detection built in single connection.
 But, what is even more important time played role as oposed to our current ml architectures. Gpt3 with 175b params still has no idea what it did 3s ago
 I.e what if dendrites do logic like " if this leading edge of a and b and 10s later x mul y is bigger than threshold c than not o" ?
 
+Perhaps in each connection is droping potential that acts as a timer/delay?
+
 And in one neuron and one axon/neuron has a houndreds of them in 
 
 In reality, one neuron can be a pretty dense state machine? That would also explain how bio can do so much complex logic with so few neurons/layers. So I started this repo hoping to create simple nn but with logic gates behind weights. 
