@@ -1,4 +1,4 @@
-This basic idea spawned in my head when relatively recently, when I watched recent descovery by blue brain folks? that some real biological dendrites fire to axon only when two simultaneous inputs to them fired in the same time. 
+This basic idea spawned in my head when relatively recently, when I watched recent discovery by blue brain folks? that some real biological dendrites fire to axon only when two simultaneous inputs to them fired in the same time. 
 
 I.e they kinda worked like logical and  gate. Plus what is more important there was corelation detection per two dendrite connection in one neuron and one axon/neuron has houndreds of them in 
 
