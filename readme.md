@@ -3,7 +3,10 @@ This basic idea spawned in my head when relatively recently when I watched a rec
 I.e they kinda worked like logical AND gate. 
 Not only there was correlation detection built in single connection.
 
-But, what is even more important time played role as oposed to our current ml architectures. Gpt3 with 175b params still has no idea what it did 3s ago
+But, what is even more important time played role as oposed to our current ml architectures. 
+
+Our biggest and best/Gpt3 with 175b params still has no idea what it did 3s ago and has no context.
+
 I.e what if dendrites do logic like " if this leading edge of a and b and 10s later x mul y is bigger than threshold c than not o" ?
 
 Perhaps in each connection is droping potential that acts as a timer/delay?
