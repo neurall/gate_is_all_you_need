@@ -11,3 +11,12 @@ Lets call it GateTron
 
 there is weight also between two inputs in otder to work as not= by shortcircuiting two nand inputs we get not. But this seems stupid perhaps having weighted and or not everywhere is better than this stupid aditional weight?
 
+Hmm Also...
+When you think about it. looking at typical biological neruon with all those hundreds complex dendritic connections no all meeting in one point byt via some kind of structure.
+
+Structure not that different from half of autoencoder.
+Isnt dendritic half of neuron actually half of atypical hourglass autoencoder architecture?
+
+Isn't there actually dimensionality reduction happenin in simmilar higher order feature detection way happening too?
+Isn't therefore each neuron actially miniature autoencoder too ?
+
