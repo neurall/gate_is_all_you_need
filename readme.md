@@ -9,7 +9,7 @@ Our biggest and best/Gpt3 with 175b params still has no idea what it did 3s ago 
 
 I.e what if dendrites do logic like " if this leading edge of a and b and 10s later x mul y is bigger than threshold c than not o" ?
 
-Perhaps in each connection is droping potential that acts as a timer/delay?
+Perhaps in each connection has droping potential that acts as a timer/delay to keep track of time?
 
 And in one neuron and one axon/neuron has a houndreds of them in 
 
