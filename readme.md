@@ -62,5 +62,9 @@ Structure, in fact not that much different from half of the autoencoder.
 Isn't the dendritic half of a neuron actually half of a typical hourglass autoencoder architecture?
 
 Isn't there dimensionality reduction happening in similar higher order feature detection way too?
+Arn't those higher order corelation detection and connections ner top of axon thus actually outputs?
+
+Or are the acually inputs but from other higher order detected features from different neuron?
+I.e are connections near axon top leading to connections near axon top on other neuron? Or is it random, but when they are then they are in fact acting like autoencoders where say 10 axons were middle of autoencoder?
 
 Isn't therefore each neuron an autoencoder?
