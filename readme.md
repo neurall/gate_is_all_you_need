@@ -15,7 +15,7 @@ Perhaps time is somehow encoded.modulated in firing patterns or signal shape and
 
 And in one neuron and one axon/neuron has a houndreds of them in 
 
-In reality, one neuron can be a pretty dense state machine? That would also explain how bio can do so much complex logic with so few neurons/layers. So I started this repo hoping to create simple nn but with logic gates behind weights. 
+In reality, one neuron can be a pretty time aware? state machine? That would also explain how bio can do so much complex logic with so few neurons/layers. So I started this repo hoping to create simple nn but with logic gates behind weights. 
 
 Could this be all they need without the need for any sort of gradient descent and backprop? 
 
