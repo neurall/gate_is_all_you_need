@@ -11,6 +11,8 @@ I.e what if dendrites do logic like " if this leading edge of a and b and 10s la
 
 Perhaps in each connection has droping potential that acts as a timer/delay to keep track of time?
 
+Perhaps time is somehow encoded.modulated in firing patterns or signal shape and awareness about time can then be decoded per connection?
+
 And in one neuron and one axon/neuron has a houndreds of them in 
 
 In reality, one neuron can be a pretty dense state machine? That would also explain how bio can do so much complex logic with so few neurons/layers. So I started this repo hoping to create simple nn but with logic gates behind weights. 
