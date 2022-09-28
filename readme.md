@@ -1,6 +1,10 @@
 This basic idea spawned in my head when relatively recently when I watched a recent discovery by blue brain folks. that some real biological dendrites fire to axons only when two simultaneous inputs to them fired at the same time. 
 
-I.e they kinda worked like logical AND gate. Plus what is more important there was correlation detection per two dendrite connections in one neuron and one axon/neuron has a houndreds of them in 
+I.e they kinda worked like logical AND gate. there was correlation detection built-in single connection plus what is more important time played role as oposed to our current architectures. 
+
+I.e what if dendrited do logic like if this and 10s later that ?
+
+And in one neuron and one axon/neuron has a houndreds of them in 
 
 In reality, one neuron can be a pretty dense state machine? That would also explain how bio can do so much complex logic with so few neurons/layers. So I started this repo hoping to create simple nn but with logic gates behind weights. 
 
